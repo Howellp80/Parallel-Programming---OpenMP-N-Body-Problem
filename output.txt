@@ -1,0 +1,80 @@
+Course Grained parallelism using static scheduling
+Using 1 threads
+MegaBodies per second: 	20.7945
+Total run-time: 	0.0961792
+
+Course Grained parallelism using static scheduling
+Using 2 threads
+MegaBodies per second: 	39.07
+Total run-time: 	0.0511902
+
+Course Grained parallelism using static scheduling
+Using 4 threads
+MegaBodies per second: 	64.5958
+Total run-time: 	0.0309618
+
+Course Grained parallelism using static scheduling
+Using 8 threads
+MegaBodies per second: 	102.815
+Total run-time: 	0.0194524
+
+Course Grained parallelism using dynamic scheduling
+Using 1 threads
+MegaBodies per second: 	20.5881
+Total run-time: 	0.0971437
+
+Course Grained parallelism using dynamic scheduling
+Using 2 threads
+MegaBodies per second: 	39.1733
+Total run-time: 	0.0510552
+
+Course Grained parallelism using dynamic scheduling
+Using 4 threads
+MegaBodies per second: 	61.5058
+Total run-time: 	0.0325173
+
+Course Grained parallelism using dynamic scheduling
+Using 8 threads
+MegaBodies per second: 	87.9183
+Total run-time: 	0.0227484
+
+Fine Grained parallelism using static scheduling
+Using 1 threads
+MegaBodies per second: 	19.5898
+Total run-time: 	0.102094
+
+Fine Grained parallelism using static scheduling
+Using 2 threads
+MegaBodies per second: 	29.9502
+Total run-time: 	0.0667776
+
+Fine Grained parallelism using static scheduling
+Using 4 threads
+MegaBodies per second: 	25.5207
+Total run-time: 	0.0783676
+
+Fine Grained parallelism using static scheduling
+Using 8 threads
+MegaBodies per second: 	18.2304
+Total run-time: 	0.109707
+
+Fine Grained parallelism using dynamic scheduling
+Using 1 threads
+MegaBodies per second: 	10.9434
+Total run-time: 	0.182758
+
+Fine Grained parallelism using dynamic scheduling
+Using 2 threads
+MegaBodies per second: 	7.39281
+Total run-time: 	0.270533
+
+Fine Grained parallelism using dynamic scheduling
+Using 4 threads
+MegaBodies per second: 	9.88104
+Total run-time: 	0.202408
+
+Fine Grained parallelism using dynamic scheduling
+Using 8 threads
+MegaBodies per second: 	9.46215
+Total run-time: 	0.211368
+
